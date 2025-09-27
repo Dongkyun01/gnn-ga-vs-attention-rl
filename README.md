@@ -158,6 +158,4 @@ Kool, W., van Hoof, H., & Welling, M. (2019). Attention, Learn to Solve Routing 
 
 Veličković, P., Cucurull, G., Casanova, A., Romero, A., Liò, P., & Bengio, Y. (2017). Graph Attention Networks. arXiv preprint arXiv:1710.10903.
 
-Holland, J. H. (1992). Adaptation in Natural and Artificial Systems. MIT press.
-
-Dorigo, M., & Stützle, T. (2004). Ant Colony Optimization. MIT Press.
+Kovács, L., & Jlidi, A. (2024). Neural Networks for Vehicle Routing Problem. Advanced Logistic Systems – Theory and Practice, 18(2), 17-29. 
